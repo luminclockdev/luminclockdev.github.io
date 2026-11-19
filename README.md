@@ -1,2 +1,3 @@
-# BMWSHFTX.github.io
-Performance-focused automotive showcase built with pure HTML, CSS, and JavaScript.
+download link is here for luminclock!
+
+Desktop Clock!
